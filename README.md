@@ -1,5 +1,7 @@
 # Photo gallery
 
+Voir la vidéo qui permet de refaire ce code : https://youtu.be/OTHn6KVFy5s
+
 ## Steps
 
 ### Part 1
